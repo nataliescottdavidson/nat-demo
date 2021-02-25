@@ -73,7 +73,7 @@ Have a look at the theme's README and files to see what options are available an
 
 Since the underlying theme ships with [prism-react-renderer](https://github.com/FormidableLabs/prism-react-renderer) and [react-live](https://github.com/FormidableLabs/react-live) certain additional features were added to code blocks. You can find an overview / usage example in the [example repository](https://github.com/LekoArts/gatsby-themes/tree/master/examples/minimal-blog/content/posts/fantastic-beasts-and-where-to-find-them/index.mdx)! If you want to change certain code styles or add additional language tabs, you need to shadow the file `src/@lekoarts/gatsby-theme-minimal-blog/styles/code.js`.
 
-**Language tabs:**
+**Language tabs:**asdfadfadf
 
 When you add a language (such as e.g. `js` or `javascript`) to the code block, a little tab will appear at the top left corner.
 
